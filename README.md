@@ -5,7 +5,7 @@ FPS Bot Shooter is an exciting first-person shooter game where you battle bots i
 ## Gameplay
 
 <div align="center">
-  <img src="src/Gameplay.gif" width="60%">
+  <img src="src/Gameplay.gif" width="75%">
 </div>
 
 ## About the Game
