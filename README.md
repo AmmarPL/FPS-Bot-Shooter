@@ -1,6 +1,6 @@
 # FPS Bot Shooter
 
-![Gameplay](src/Gameplay.gif)
+<img src="src/Gameplay.gif" width="50%">
 
 ## Requirements and How to Run
 To run this code, you will need OpenGL and CMake. For detailed steps on how to run OpenGL projects, go to http://www.opengl-tutorial.org/.
