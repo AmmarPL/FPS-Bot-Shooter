@@ -11,7 +11,7 @@ FPS Bot Shooter is an exciting first-person shooter game where you battle bots i
 ## About the Game
 FPS Bot Shooter is made with OpenGL and places you in a first-person view on a green field filled with trees, rocks, and bots. You can navigate the map using the arrow keys and shoot using your mouse. The display shows the number of kills, bots left, and bullets left.
 
-As you move around the map, the terrain is generated in a fixed radius around you, adding a dynamic element to the terrain.
+As you move around the map, the terrain is generated in a fixed radius around you, making the map an infinitely large one.
 
 ## Requirements and How to Run
 To run this game, you will need modern OpenGL (3.3+) and CMake. For detailed steps on how to run OpenGL projects, visit [OpenGL Tutorial](http://www.opengl-tutorial.org/).
